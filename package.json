@@ -1,0 +1,23 @@
+{
+  "name": "mean",
+  "version": "0.0.0",
+  "description": "angular test",
+  "main": "app.js",
+  "dependencies": {
+    "angular-ui-router": "^0.2.14",
+    "mongoose": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Aaron Kesler",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "/mean"
+  },
+  "keywords": [
+    "mean"
+  ]
+}
